@@ -1,0 +1,33 @@
+body {
+background-color: #B8C5D6;
+color: #625F63;
+font-family: 'Nunito Sans', sans-serif;
+line-height: 1.4
+}
+
+h1, h2 {
+   font-family: 'Roboto', sans-serif;
+}
+h{
+	color: #0B032D;
+	font-weight: 900;
+}
+
+h2{
+	color: #0B032D;
+	font-size:20px ;
+	font-weight: 500;
+}
+
+a {
+  font-weight: 600;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: overline;
+  color: #0B032D;
+  transition: color 0.3s ease
+  
+}
+a:hover{
+	color: red;
+}
